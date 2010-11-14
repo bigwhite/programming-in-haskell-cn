@@ -2,24 +2,20 @@
 #《Programming in Haskell》译者指南.
 
 = 介绍 =
+
+== 工具使用 ==
 《Programming in Haskell》中文版使用TeX排版系统，具体采用的是[http://www.tug.org/texlive TeX Live 2010套件]。
 
-为了便于让译者更多关注于内容的翻译，这里制作了一个简易的[ https://bigwhite-code.googlecode.com/svn/trunk/tex_template 中文TeX模板]。该模板基于XeTeX和xeCJK，通过xelatex命令你可以将模板编译成一个pdf文件。
+为了便于让译者更多关注于内容的翻译，这里制作了一个简易的[https://bigwhite-code.googlecode.com/svn/trunk/tex_template 中文TeX模板]。该模板基于XeTeX和xeCJK，通过xelatex命令你可以将模板编译成一个pdf文件。
 
+== 源文件组织 ==
 本项目源文件就是一些.tex文件，组织结构如下：
-主源文件: programming-in-haskell-cn.tex
-章节源文件包括:
-  *half_title.tex                                      % half_title
-  *copyright.tex                                       % 版权声明
-  *preface.tex                                         % 序言
-  *tranlator_preface.tex                               % 译者序
-  *english_chinese.tex                                 % 中英文对照表
-  *introduction.tex                                    % 第一章 导 言
-  *first_steps.tex                                     % 第二章 第一步
-  *types_and_classes.tex                               % 第三章 类型与类
-  * 待续
-
-
-
-
-
+|| *文件* || *用途* ||
+|| programming-in-haskell-cn.tex || 主源文件  ||
+|| half_title.tex || half_title  ||
+|| copyright.tex || 版权声明  ||
+|| preface.tex || 序言 ||
+|| translator_preface.tex || 译者序 ||
+|| english_chinese || 中英文对照表  ||
+|| introduction.tex || 第一章 导言  ||
+|| first-steps.tex || 第二章 第一步 ||
