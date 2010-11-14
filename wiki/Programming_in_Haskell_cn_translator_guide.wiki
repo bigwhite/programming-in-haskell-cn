@@ -19,3 +19,11 @@
 || english_chinese || 中英文对照表  ||
 || introduction.tex || 第一章 导言  ||
 || first-steps.tex || 第二章 第一步 ||
+|| types_and_classes.tex || 第三章 类型和类 ||
+|| ... || 待续 ||
+
+== 源文件编译 == 
+  * 下载源文件: svn checkout http://programming-in-haskell-cn.googlecode.com/svn/trunk/ programming-in-haskell-cn-read-only
+  * 编译源文件: 进入存放源文件的本地目录，执行xelatex programming-in-haskell-cn.tex
+
+若编译成功，则会在这个目录下生成programming-in-haskell-cn.pdf文件。
