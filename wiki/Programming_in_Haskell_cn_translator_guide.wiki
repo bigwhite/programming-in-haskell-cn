@@ -2,7 +2,7 @@
 #《Programming in Haskell》译者指南.
 
 = 介绍 =
-《Programming in Haskell》中文版使用TeX排版系统，具体采用的是[www.tug.org/texlive TeX Live 2010套件]。
+《Programming in Haskell》中文版使用TeX排版系统，具体采用的是[http://www.tug.org/texlive TeX Live 2010套件]。
 
 为了便于让译者更多关注于内容的翻译，这里制作了一个简易的[ https://bigwhite-code.googlecode.com/svn/trunk/tex_template 中文TeX模板]。该模板基于XeTeX和xeCJK，通过xelatex命令你可以将模板编译成一个pdf文件。
 
@@ -18,8 +18,6 @@
   *first_steps.tex                                     % 第二章 第一步
   *types_and_classes.tex                               % 第三章 类型与类
   * 待续
-
-
 
 
 
