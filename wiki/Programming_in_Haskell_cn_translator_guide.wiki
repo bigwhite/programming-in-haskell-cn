@@ -27,3 +27,8 @@
   * 编译源文件: 进入存放源文件的本地目录，执行xelatex programming-in-haskell-cn.tex
 
 若编译成功，则会在这个目录下生成programming-in-haskell-cn.pdf文件。
+
+== 如何参与本项目 ==
+参与本项目有多种方式，最简单的方式就是参与审校译文，在[http://code.google.com/p/programming-in-haskell-cn/issues/list Issure]中提出您的意见和建议。
+
+另外如果您对本项目感兴趣，且自愿投入自己宝贵的时间为本项目做些翻译工作，那么请您先查看本项目的最新进展，然后选择一个目前尚未翻译的章节或章节小节尝试进行翻译，将译稿发到我的mail(bigwhite.cn AT gmail dot com)中。如果您的翻译水平得到大家认可，那您将可以成为该项目的Member之一。
